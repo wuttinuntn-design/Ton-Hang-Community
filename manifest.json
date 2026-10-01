@@ -1,0 +1,16 @@
+{
+  "name": "หมู่บ้านต้นฮ่าง",
+  "short_name": "ต้นฮ่าง",
+  "description": "แผนที่ ประกาศ แจ้งเรื่อง และปฏิทินของหมู่บ้าน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7f3",
+  "theme_color": "#23305f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
